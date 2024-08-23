@@ -1,4 +1,4 @@
-package com.songlistapp
+package com.RidwanMalikTestTodolist
 
 import android.app.Application
 import com.facebook.react.PackageList
